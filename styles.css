@@ -34,14 +34,14 @@ main {
 .login-container h2 {
     margin-bottom: 30px;
     font-size: 2em;
-    color: #044708; /* Cor do título */
+    color: #0a1527; /* Cor do título */
 }
 
 .login-container input {
     width: 100%;
     padding: 15px; /* Mantido em 15px */
     margin: 15px 0; /* Aumentado para 15px */
-    border: 1px solid #044708; /* Borda na cor profissional */
+    border: 1px solid #0a1527; /* Borda na cor profissional */
     border-radius: 8px;
     font-size: 1em;
     text-align: center;
@@ -55,7 +55,7 @@ main {
 .login-container button {
     width: 100%;
     padding: 15px; /* Mantido em 15px */
-    background-color: #044708; /* Cor do botão */
+    background-color: #0a1527; /* Cor do botão */
     border: none;
     border-radius: 8px;
     color: #ffffff; /* Texto branco */
@@ -66,5 +66,5 @@ main {
 }
 
 .login-container button:hover {
-    background-color: #04a316; /* Cor ao passar o mouse */
+    background-color: #1e4f9e; /* Cor ao passar o mouse */
 }
